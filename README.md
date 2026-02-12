@@ -7,9 +7,13 @@
 I’m **Umer Rashid**, a **Software Developer and AI Enthusiast** with a strong foundation in **C++, Python, and Data Structures & Algorithms**. I enjoy building intelligent systems while strengthening my core understanding of computer science fundamentals.
 
 🧠 Currently working on **AI/ML projects, NLP, and Computer Vision applications**.
+
 🔐 Developing a **Decentralized KYC (DeKYC) system** focused on secure identity verification and privacy-preserving architectures.
+
 ⚙️ Building a **Compiler in Python using PLY (Lex & Yacc)** to deepen my understanding of language design and system architecture.
+
 💻 Developing full-stack applications using **React, Next.js, Node.js, and Flask**.
+
 📊 Experienced with **NumPy, Pandas, scikit-learn, and PyTorch** for practical machine learning implementations.
 
 🚀 Passionate about building real-world projects that combine **AI, backend systems, security, and scalable software design**.
