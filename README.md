@@ -2,14 +2,18 @@
 
 # 👋 Welcome to My GitHub!
 
-### 💫 About Me  
-I’m **Umer Rashid**, a **Python & AI/ML Engineer** with hands-on experience in architecting and deploying **end-to-end AI platforms, RAG pipelines, and multi-agent systems**. My expertise lies at the intersection of **machine learning, backend engineering, and cloud deployment**, where I design scalable, production-ready solutions.  
+### 💫 About Me
 
-🧠 Specialized in **LLMs, Retrieval-Augmented Generation (RAG), semantic search, and AI-driven automation**.  
-💻 Proficient in **Python, Flask, FastAPI, React.js, Node.js, and cloud-native deployments (AWS, Docker, CI/CD)**.  
-🎙 Experienced in building **speech-to-speech conversational systems** with ASR (Whisper, Deepgram) and TTS (Coqui, OpenAI).  
-📊 Strong background in **recommendation systems, NLP, image processing, and real-time data pipelines**.  
-🌍 Passionate about creating impactful **AI-first solutions** in **education, healthcare, and automation domains**. 
+I’m **Umer Rashid**, a **Software Developer and AI Enthusiast** with a strong foundation in **C++, Python, and Data Structures & Algorithms**. I enjoy building intelligent systems while strengthening my core understanding of computer science fundamentals.
+
+🧠 Currently working on **AI/ML projects, NLP, and Computer Vision applications**.
+🔐 Developing a **Decentralized KYC (DeKYC) system** focused on secure identity verification and privacy-preserving architectures.
+⚙️ Building a **Compiler in Python using PLY (Lex & Yacc)** to deepen my understanding of language design and system architecture.
+💻 Developing full-stack applications using **React, Next.js, Node.js, and Flask**.
+📊 Experienced with **NumPy, Pandas, scikit-learn, and PyTorch** for practical machine learning implementations.
+
+🚀 Passionate about building real-world projects that combine **AI, backend systems, security, and scalable software design**.
+. 
 
 ---
 
