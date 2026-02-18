@@ -47,9 +47,3 @@ Passionate about building real-world projects that combine AI, backend systems, 
 
 ---
 
-✨ *“Code is like humor. When you have to explain it, it’s bad.”* ✨  
-
-</div>
-
-
-convert this according to my skillset
